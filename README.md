@@ -1,16 +1,17 @@
-### Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N0vaT&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0vaT&show_icons=true&theme=default)
+[![trophy](https://github-profile-trophy.vercel.app/?username=N0vaT)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**N0vaT/N0vaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://t.me/n0va13">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://vk.com/id34606152">
+      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=N0vaT&style=flat-square&color=blue" alt=""/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
